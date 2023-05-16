@@ -1,4 +1,4 @@
-### Hi there Hey! Nice to see you.👋
+### Hi! Nice to see you.👋
 
 I'm Thomas, Fullstack developer from 
 
