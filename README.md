@@ -1,6 +1,6 @@
 ### Hi! Nice to see you.👋
 
-I'm Thomas, Fullstack developer from 
+I'm Pena, Fullstack Software developer from Turkmenistan
 
 <!--
 **pmuhammedov/pmuhammedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
