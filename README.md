@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi there 👋
+
+I'm [your name], a full-stack software engineer and writer.
+
+## About me
+
+- 🔭 I’m currently working on [your project]
+- 🌱 I’m currently learning [your skill]
+- 👯 I’m looking to collaborate on [your idea]
+- 🤔 I’m looking for help with [your problem]
+- 💬 Ask me about [your topic]
+- 📫 How to reach me: [your contact]
+- 😄 Pronouns: [your pronouns]
+- ⚡ Fun fact: [your fact]
+
+## My skills
+
+[Add your skills here]
+
+## My stats
+
+[Add your stats here]
+
+## My projects
+
+[Add your projects here]
