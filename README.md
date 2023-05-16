@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-I'm [your name], a full-stack software engineer and writer.
+<!-- I'm [your name], a full-stack software engineer and writer. -->
 
-## About me
+<!-- ## About me -->
 
-- 🔭 I’m currently working on [your project]
-- 🌱 I’m currently learning [your skill]
-- 👯 I’m looking to collaborate on [your idea]
+<!-- - 🔭 I’m currently working on [your project] -->
+<!-- - 🌱 I’m currently learning [your skill] -->
+<!-- - 👯 I’m looking to collaborate on [your idea]
 - 🤔 I’m looking for help with [your problem]
 - 💬 Ask me about [your topic]
 - 📫 How to reach me: [your contact]
 - 😄 Pronouns: [your pronouns]
-- ⚡ Fun fact: [your fact]
-
+- ⚡ Fun fact: [your fact] -->
+<!-- 
 ## My skills
 
 [Add your skills here]
@@ -42,3 +42,4 @@ I'm [your name], a full-stack software engineer and writer.
 ## My projects
 
 [Add your projects here]
+ -->
